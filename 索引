@@ -1,0 +1,5 @@
+gulp工作流
+1、npm init
+2、npm install gulp --save-dev
+3、在项目根目录下面添加一个 gulpfile.js文件，主文件,文件名固定不变的
+4、在gulpfile中抽象我们的任务
